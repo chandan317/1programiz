@@ -50,6 +50,32 @@ const m = 2,
   n = "hello";
 // strict not equal
 
-console.log(m !== "2");
-console.log(m !== 2);
-console.log(n !== "hello");
+// console.log(m !== "2");
+// console.log(m !== 2);
+// console.log(n !== "hello");
+
+// greater than operator
+
+const l = 3;
+// great than op
+
+// console.log(l > 2);
+
+// greater than or equal to operator
+
+const k = 3;
+
+// console.log(k >= 3);
+
+// less than operator
+const x = 3,
+  y = 2;
+// console.log(x < 2);
+// console.log(y < 3);
+
+// less than or equal to operator
+
+const g = 2;
+
+console.log(g <= 3);
+console.log(g <= 2);

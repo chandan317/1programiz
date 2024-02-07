@@ -77,5 +77,42 @@ const x = 3,
 
 const g = 2;
 
-console.log(g <= 3);
-console.log(g <= 2);
+// console.log(g <= 3);
+// console.log(g <= 2);
+
+// logical operator
+
+// && and , || or , ! not
+
+// && 1*1 =1 else 0
+// true  if both operands / boolean values is true
+
+//|| true if either of operands/ boolean value is true.
+
+// true if operand is false.
+// viceversa
+
+// logical AND
+
+const f = true,
+  h = false;
+const j = 4;
+// console.log(f && h);
+// console.log(f && f);
+
+// console.log(c > 2 && c < 2);
+
+// logical or operator
+const i = true;
+u = false;
+s = 4;
+// console.log(i || u);
+// console.log(u || u);
+// console.log(s > 2 || s < 2);
+
+//logical not operator
+
+const v = true;
+d = false;
+console.log(!v);
+console.log(!d);
